@@ -9,12 +9,6 @@ Drag & Drop: Move tickets between different status columns
 Data Persistence: All data is stored in local storage
 Responsive Design: Works on all screen sizes
 Modern UI: Clean, intuitive interface with animations and visual feedback
-Setup Instructions
-Clone the repository:
-
-git clone https://github.com/yourusername/ticket-management-system.git
-cd ticket-management-system
-Open the project:
 
 Simply open the index.html file in your web browser
 No build steps or server required
